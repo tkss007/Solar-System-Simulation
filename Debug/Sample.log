@@ -1,0 +1,21 @@
+﻿  main.cpp
+c:\users\mengz\desktop\final\main.cpp(81): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\mengz\desktop\final\main.cpp(105): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\mengz\desktop\final\main.cpp(105): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\mengz\desktop\final\main.cpp(114): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\mengz\desktop\final\main.cpp(114): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\mengz\desktop\final\main.cpp(144): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\mengz\desktop\final\main.cpp(145): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\mengz\desktop\final\main.cpp(147): warning C4305: 'argument': truncation from 'int' to 'float'
+c:\users\mengz\desktop\final\main.cpp(148): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\mengz\desktop\final\main.cpp(148): warning C4305: 'argument': truncation from 'int' to 'float'
+c:\users\mengz\desktop\final\main.cpp(149): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\mengz\desktop\final\main.cpp(149): warning C4305: 'argument': truncation from 'int' to 'float'
+c:\users\mengz\desktop\final\main.cpp(150): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\mengz\desktop\final\main.cpp(150): warning C4305: 'argument': truncation from 'unsigned long' to 'float'
+c:\users\mengz\desktop\final\main.cpp(151): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\mengz\desktop\final\main.cpp(151): warning C4305: 'argument': truncation from '__int64' to 'float'
+c:\users\mengz\desktop\final\main.cpp(154): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\mengz\desktop\final\main.cpp(181): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Sample.vcxproj -> C:\Users\mengz\Desktop\Final\Debug\Sample.exe
+  Sample.vcxproj -> C:\Users\mengz\Desktop\Final\Debug\Sample.pdb (Full PDB)
